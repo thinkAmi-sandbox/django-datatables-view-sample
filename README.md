@@ -14,3 +14,5 @@
 
 - `fk_app`
   - [django-datatables-viewで、モデルの外部キーの項目を表示する - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2020/10/08/221558)
+- `sort_app`
+  - [django-datatables-viewによる色々なソートを試してみた - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2020/10/10/220623)
