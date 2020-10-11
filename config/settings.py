@@ -33,6 +33,7 @@ ALLOWED_HOSTS = []
 INSTALLED_APPS = [
     'fk_app',
     'sort_app',
+    'concat_col_app',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
