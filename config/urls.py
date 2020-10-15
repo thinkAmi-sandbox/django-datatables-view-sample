@@ -22,4 +22,5 @@ urlpatterns = [
     path('accounts/', include('accounts.urls')),
     path('sort-app/', include('sort_app.urls')),
     path('concat-col-app/', include('concat_col_app.urls')),
+    path('search-app/', include('search_app.urls')),
 ]
