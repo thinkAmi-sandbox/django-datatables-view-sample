@@ -18,3 +18,5 @@
   - [django-datatables-viewによる色々なソートを試してみた - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2020/10/10/220623)
 - `concat_col_app`
   - [django-datatables-viewで、モデルの複数列を結合して表示する - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2020/10/11/112549)
+- `search_app`
+  - [django-datatables-viewで、フォームの入力値に基づいてDataTableの絞り込みを行う - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2020/10/16/004713)
