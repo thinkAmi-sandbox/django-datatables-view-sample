@@ -20,3 +20,5 @@
   - [django-datatables-viewで、モデルの複数列を結合して表示する - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2020/10/11/112549)
 - `search_app`
   - [django-datatables-viewで、フォームの入力値に基づいてDataTableの絞り込みを行う - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2020/10/16/004713)
+- `args_app`
+  - [django-datatables-viewによるServer-side processingで、DataTable向けのクエリパラメータを追加する - メモ的な思考的な](https://thinkami.hatenablog.com/entry/2020/10/20/220444)
