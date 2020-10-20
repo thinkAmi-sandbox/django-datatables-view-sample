@@ -35,6 +35,7 @@ INSTALLED_APPS = [
     'sort_app',
     'concat_col_app',
     'search_app',
+    'args_app',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
